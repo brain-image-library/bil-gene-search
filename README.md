@@ -25,7 +25,7 @@ This project uses [uv](https://docs.astral.sh/uv/) for environment management.
 uv sync
 
 # Launch the app
-uv run streamlit run app.py
+uv run streamlit run app_demo.py
 ```
 
 The app opens at `http://localhost:8501`. 
